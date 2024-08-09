@@ -46,7 +46,7 @@ async function checkWeather() {
                     weatherIcon.src = "mist.png";
                     break;
                 default:
-                weatherIcon.src = "default.png";
+                weatherIcon.src = "wind.png";
                     break;
             }
         } else {
